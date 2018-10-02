@@ -1,0 +1,52 @@
+body {
+	text-align:center;
+	background-image:url('background.jpg');
+	background-size:cover;
+}
+ h1 {
+	font-family: 'K2D', cursive;
+	font-size: 3.0em;
+	color: #ffffff;
+}
+h3 {
+	font-family: 'K2D', cursive;
+	font-size: 1.5em;
+	color: #ffffff;
+}
+ .table {
+	border: 0.5px solid #000000;
+	padding: 0;
+	width: 80%;
+	height: 500px;
+	text-align:center;
+	margin-left: auto; 
+	margin-right: auto;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+ .maintr {
+	border: 1px solid #FFFFFF;
+	font-family: 'Roboto' , sans-serif;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+ td {
+	border: 1px solid #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+ th {
+	border: 1px solid #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.2em;
+	color: #ffffff;
+	background-color: #000000;
+	font-weight: bold;
+}
+ .planets {
+	background-color: #1A3441
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 1.5em;
+} 
